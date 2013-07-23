@@ -9,3 +9,9 @@ alistasha:
   last_name: "Seo"
   email: "alistasha@gmail.com"
   profile_name: "alistasha"
+
+testie:
+  first_name: "Testie"
+  last_name: "Cleo"
+  email: "testie@teamtreehouse.com"
+  profile_name: "testie"
